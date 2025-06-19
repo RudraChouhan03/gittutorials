@@ -1,1 +1,1 @@
-# Git Tutorials b Rudra
+# Git Tutorials by Rudra
